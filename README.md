@@ -10,6 +10,9 @@ As a student learning Data Analytics, this project helped me strengthen my SQL s
 
 ## Dataset Information
 
+
+
+
 * Total Records: 3,728
 * Unique Products: 1,674
 * Categories: 14
@@ -25,7 +28,7 @@ Dataset includes:
 * Product Weight
 * Stock Status
 
-Dataset Source: [Add your dataset link here]
+Dataset Source:  https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset?resource=download
 
 ---
 
