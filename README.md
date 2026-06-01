@@ -126,18 +126,7 @@ Dataset Source:  https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-d
 
 ---
 
-## Project Structure
 
-```text
-Zepto-SQL-Data-Analysis
-│
-├── Dataset
-├── SQL Queries
-├── Screenshots
-└── README.md
-```
-
----
 
 ## Learning Outcomes
 
